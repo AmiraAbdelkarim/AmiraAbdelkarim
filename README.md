@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Amira
 
-<!--
-**AmiraAbdelkarim/AmiraAbdelkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about software development, artificial intelligence, and building practical solutions through technology.
 
-Here are some ideas to get you started:
+## About Me
+- Learning Python, JavaScript, and web development
+- Exploring AI tools and AI-powered applications
+- Continuously improving my programming and problem-solving skills
+- Building projects to strengthen my experience and portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## Goals
+- Build impactful software projects
+- Learn modern development technologies
+- Contribute to open-source projects
+- Grow as a software engineer
+
+
+
+*"The best way to learn programming is by building."*
